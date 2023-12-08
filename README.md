@@ -1,1 +1,2 @@
-# AL_g-n-tiqueA
+# GA_Genetic_algorithm
+algorithme génétique
